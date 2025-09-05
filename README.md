@@ -1,0 +1,2 @@
+# HexTrackr
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9fb1ef7e99b24a1b84e4b3e37b91aca0)](https://app.codacy.com/gh/Lonnie-Bruton/HexTrackr?utm_source=github.com&utm_medium=referral&utm_content=Lonnie-Bruton/HexTrackr&utm_campaign=Badge_Grade)
